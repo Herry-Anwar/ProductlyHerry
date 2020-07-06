@@ -1,0 +1,252 @@
+body {
+  font-family: "Poppins";
+}
+
+a {
+  margin-right: 5px;
+}
+
+.nav-item {
+  padding-top: 5px;
+}
+
+.navbar-fixed-top {
+  background: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  border-bottom: 1px solid rgb(228, 223, 223);
+}
+
+.btn-success {
+  margin-top: 4px;
+  margin-left: 4px;
+  color: blue;
+  background: rgb(235, 162, 25);
+  border: 1px solid rgb(235, 162, 25);
+  margin-right: 10px;
+  border-radius: 4px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.btn-success:hover {
+  background: rgb(194, 133, 19);
+  border: 1px solid rgb(194, 133, 19);
+  color: blue;
+}
+
+.btn-success1 {
+  margin-top: 4px;
+  margin-left: 4px;
+  background: none;
+  border: 1px solid;
+  margin-right: 10px;
+  border-radius: 4px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.btn-success1:hover {
+  margin-top: 4px;
+  margin-left: 4px;
+  background: none;
+  border: 1px solid rgb(235, 162, 25);
+  margin-right: 10px;
+  border-radius: 4px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.btn-primary {
+  background: rgb(235, 162, 25);
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px 30px 10px 30px;
+  border: 1px solid rgb(235, 162, 25);
+}
+
+.btn-primary:hover {
+  background: rgb(194, 133, 19);
+  font-weight: bold;
+  border: 1px solid rgb(194, 133, 19);
+}
+
+.hero {
+  margin-bottom: 150px;
+  margin-top: 80px;
+}
+
+.header-title {
+  margin-top: 80px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.header-text {
+  margin-bottom: 40px;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.hero-icon {
+  margin-top: 80px;
+}
+
+.expertise {
+  margin-bottom: 150px;
+}
+
+.expertise-header-tittle {
+  font-weight: bold;
+}
+
+.expertise-icon {
+  margin-top: 50px;
+}
+
+.expertise-h1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.expertise-p {
+  font-size: 15px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.content-two-left {
+  padding-top: 50px;
+}
+
+.content-header {
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.content-text {
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+.content-header-6 {
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.content-two {
+  margin-bottom: 150px;
+  display: flex;
+}
+
+.content-three-right {
+  padding-left: 50px;
+  order: 1;
+}
+
+.content-three-left {
+  order: 2;
+}
+
+.content-three-header {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.content-three-text {
+  margin-bottom: 40px;
+}
+
+.icon-checklist {
+  margin-top: 2px;
+}
+
+.content-three {
+  margin-bottom: 150px;
+}
+
+.content-three-right {
+  padding-top: 30px;
+}
+
+.content-four-left {
+  padding-top: 50px;
+}
+
+.content-four-header {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.content-four-text {
+  margin-bottom: 25px;
+}
+
+.content-four-header-6 {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.content-four {
+  margin-bottom: 150px;
+}
+
+.content-five {
+  margin-bottom: 500px;
+  position: relative;
+}
+
+.bubble-1 {
+  margin-top: 50px;
+  position: absolute;
+}
+
+.bubble-2 {
+  padding-top: 450px;
+  padding-bottom: 50px;
+  position: absolute;
+}
+
+.bubble-3 {
+  padding-top: 550px;
+  padding-left: 400px;
+  position: absolute;
+}
+
+.bubble-4 {
+  position: absolute;
+  padding-top: 350px;
+  padding-left: 700px;
+}
+
+.bubble-5 {
+  position: absolute;
+  padding-left: 600px;
+  padding-bottom: 300px;
+}
+
+.content-five-text {
+  padding-top: 180px;
+}
+
+.content-five-header {
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.content-five-paragraf {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footer-text {
+  border-top: 1px solid rgb(228, 223, 223);
+  padding-top: 20px;
+  margin-bottom: 50px;
+}
